@@ -48,7 +48,7 @@ just check the code if there's missing like this symbol {, }, (, ), [] and ;. Pl
 
 Dante R. Cipriano Jr.
 
-8214040
+8214040@ntc.edu.ph
 
 # License
 
